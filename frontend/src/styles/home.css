@@ -45,3 +45,31 @@
   background:transparent !important;
   border:2px solid #00f5ff !important;
 }
+
+/* CONNECT TEXT */
+
+.connect-text{
+  margin-top:28px;
+
+  color:#94a3b8;
+
+  font-size:1rem;
+
+  line-height:1.8;
+}
+
+.connect-text a{
+  color:#00f5ff;
+
+  text-decoration:none;
+
+  margin:0 6px;
+
+  transition:0.3s;
+
+  font-weight:500;
+}
+
+.connect-text a:hover{
+  text-decoration:underline;
+}
